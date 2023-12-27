@@ -25,11 +25,27 @@ export default function Carousel() {
         className="mySwiper"
       >
         <SwiperSlide>
-            <img src="team.png" className="aspect-w-16 aspect-h-9" alt="" /> 
+          <img src="team.png" className="aspect-w-16 aspect-h-9" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-            <img src="campus.png" className="aspect-w-16 aspect-h-9" alt="" /> 
+          <img src="campus.png" className="aspect-w-16 aspect-h-9" alt="" />
         </SwiperSlide>
+        <SwiperSlide>
+          <img src="campus-1.jpg" className="aspect-w-16 aspect-h-9" alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="campus-2.jpg" className="aspect-w-16 aspect-h-9" alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="campus-3.jpg" className="aspect-w-16 aspect-h-9" alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="campus-4.jpg" className="aspect-w-16 aspect-h-9" alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="campus-5.jpg" className="aspect-w-16 aspect-h-9" alt="" />
+        </SwiperSlide>
+
       </Swiper>
     </>
   );
