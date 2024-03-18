@@ -62,7 +62,7 @@ export default function Navbar() {
 function MenuDisplay() {
     return (
         <div data-aos='fade-out' data-aos-duration='500'>
-            <div className='fixed pt-8 pb-8 top-16 right-0 w-[100%] h-[30%] bg-slate-200 justify-center items-center flex flex-col text-[21px] rounded-b-2xl'>
+            <div className=' pt-24 pb-8 right-0 w-[100%] h-[30%] bg-slate-200 justify-center items-center flex flex-col text-[21px] rounded-b-2xl'>
             <li className=' list-none font-thin' data-aos='fade-left'>
                 <ul className=''>
                     <a className="hover:text-gray-600 " href="/">Home</a>
